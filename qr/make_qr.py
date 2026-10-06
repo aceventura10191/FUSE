@@ -3,7 +3,7 @@ from pathlib import Path
 
 import segno
 
-URL = "https://aceventura10191.github.io/FUSION/"
+URL = "https://aceventura10191.github.io/FUSE/"
 INK = "#211b16"
 OUT = Path(__file__).parent
 
